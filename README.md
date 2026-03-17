@@ -59,7 +59,7 @@
 8. **点击"完成"**
 <img width="1024" height="768" alt="PixPin_2025-08-13_19-22-40" src="https://github.com/user-attachments/assets/0f38cf4f-a40b-4da3-9543-dbc446804e9f" />
 
-<details>
+
   <summary>Windows 8.1</summary>
 1. **点击开始按钮、鼠标移动到右上角或者右下角、手指在屏幕右边缘轻扫、点击“开始”按钮**
 
