@@ -4,6 +4,8 @@
 <h1 align="center">万物工具箱</h1>
 <h4 align="center">一款可爱而帅气的工具箱~</h4>
 <h4 align="center">支持 Windows XP、Vista、7、8、8.1、10、11</h4>
+<h4 align="center">希望有Linux版本？目前人手不够，暫时做不到啊</h4>
+<h4 align="center">Android版本的万物工具箱在准备的路上啦请大家期待！</h4>
 <div align="center">
 
 [![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=正式版)](https://github.com/ELFTS/wwgjx/releases/latest)
