@@ -59,6 +59,11 @@
 8. **点击"完成"**
 <img width="1024" height="768" alt="PixPin_2025-08-13_19-22-40" src="https://github.com/user-attachments/assets/0f38cf4f-a40b-4da3-9543-dbc446804e9f" />
 
+<details>
+  <summary>Windows 8.1</summary>
+1. **点击开始按钮、鼠标移动到右上角或者右下角、手指在屏幕右边缘轻扫、点击“开始”按钮**
+
+    
 </details>
 
 
@@ -92,7 +97,7 @@
 
 
 ## 🌟 Star
-支持开发者的最简单方式是点击页面顶部的星标（⭐）
+支持开发者的最简单方式是点击页面顶部的星标（⭐），当然更希望大家能投喂我们一杯奶茶或者一个煎饼果子的钱，现在的我们还有许多需要为家内外开销的东西所以真的很苦，呜呜呜，公益项目，需要大家的大力支持啊~
 
 <p style="text-align: center;">
     <a href="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date">
