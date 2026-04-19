@@ -114,7 +114,7 @@
 
 <p style="text-align: center;">
     <a href="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date">
-        <img alt="start" width=50% src="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date"/>
+        <img alt="start" width=100% src="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date"/>
     </a>
 </p>
 
