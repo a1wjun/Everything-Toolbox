@@ -69,15 +69,16 @@
   <summary>Windows 8.1</summary>
     
 1. **鼠标移动到右上角或者右下角、手指在屏幕右边缘轻扫、点击“设置”按钮**
-    <img width="1366" height="768" alt="Win8的触摸板特别手势(1114)-2024-06-21_05-00-54" src="https://github.com/user-attachments/assets/37ce8502-f987-497e-b3f9-b734b3b5e222" />
+<img width="1366" height="768" alt="Win8的触摸板特别手势(1114)-2024-06-21_05-00-54" src="https://github.com/user-attachments/assets/37ce8502-f987-497e-b3f9-b734b3b5e222" />
 
 2. **点击"控制面板/控制台“**
 <img width="1366" height="768" alt="PixPin_2024-03-01_19-49-28" src="https://github.com/user-attachments/assets/a829ba74-a28f-4b4b-ad15-098c485bf666" />
 
 3. **寻找"程序和功能“**
-4. 找到“万物工具箱”
+
+5. 找到“万物工具箱”
    
-5. **点击"卸载程序/卸载程式“**
+6. **点击"卸载程序/卸载程式“**
 </details>
 
 ## 🔗 引用
